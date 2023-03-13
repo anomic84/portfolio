@@ -21,7 +21,7 @@ export const projects = [
     title: 'US Brewery Finder',
     description: "When the user searches a US city, this app will respond with a list of breweries in that city as well as their address and phone number. It will also show locations on the map.",
     image: 'https://github.com/anomic84/US-Brewery-Finder/raw/main/USBreweryFinder.png',
-    tags: ['JavaScript, API, HTML, CSS'],
+    tags: ['JavaScript', 'API', 'HTML', 'CSS'],
     source: 'https://github.com/anomic84/US-Brewery-Finder',
     visit: 'https://anomic84.github.io/US-Brewery-Finder/',
     id: 2,
